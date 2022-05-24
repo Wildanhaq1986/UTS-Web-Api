@@ -1,0 +1,22 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "Heroku Web",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wildanhaq1986/Rest-Api.git"
+  },
+  "author": "Imam & wildan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wildanhaq1986/Rest-Api/issues"
+  },
+  "homepage": "https://github.com/Wildanhaq1986/Rest-Api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
